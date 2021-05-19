@@ -19,8 +19,11 @@ npm run start
 ``
 
 **Значения типы и операторы.**
+
 ``import_jsFIle/values_types_operators``
 
+     1.js - Работа с цифрами
+     2.js - Работа с строками
 
 
 
