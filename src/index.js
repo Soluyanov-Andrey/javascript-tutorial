@@ -4,7 +4,8 @@
 //import "./import_jsFIle/values_types_operators/4"      // Примеры комментариев. "use strict"
 //import "./import_jsFIle/import_export/1.js"            // import, export.
 //import "./import_jsFIle/import_export/2.js"            // import, export.
-import "./import_jsFIle/import_export/3.js"            // import, export.
+//import "./import_jsFIle/import_export/3.js"            // import, export.
+import "./import_jsFIle/import_export/4.js"            // import, export.
 
 
 
