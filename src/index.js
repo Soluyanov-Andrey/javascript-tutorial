@@ -22,9 +22,10 @@
  * Циклы.
  */
 
-//import "./import_jsFIle/cycle/1.js"            // while.
-import "./import_jsFIle/cycle/2.js"            // while.
-
+//import "./import_jsFIle/cycle/1.js"              // while.
+//import "./import_jsFIle/cycle/2.js"              // while.
+//import "./import_jsFIle/cycle/3.js"              // while.
+import "./import_jsFIle/cycle/4.js"              //Цикл for.
 
 
 
