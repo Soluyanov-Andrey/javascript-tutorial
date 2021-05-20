@@ -38,8 +38,9 @@
 //import "./import_jsFIle/function/1.js"              //Function Declaration, Function Expression.
 //import "./import_jsFIle/function/2.js"              //Примеры вызова функций.
 //import "./import_jsFIle/function/3.js"              //
-//import "./import_jsFIle/function/4.js"              //Примеры объявления функций.
-//import "./import_jsFIle/function/5.js"              //Примеры объявления функций.
+//import "./import_jsFIle/function/4.js"              //
+//import "./import_jsFIle/function/5.js"              //
+//import "./import_jsFIle/function/6.js"              //
 
 
 
