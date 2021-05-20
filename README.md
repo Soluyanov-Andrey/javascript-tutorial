@@ -18,6 +18,12 @@ npm init
 node server
 ``
 
+Сервер будет доступен
+
+
+http://127.0.0.1:3000/
+
+
 **Значения типы и операторы.**
 
 ``import_jsFIle/values_types_operators``
