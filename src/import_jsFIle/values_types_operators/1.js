@@ -63,5 +63,5 @@ console.log(3*(2-4));
  *  После вызова toFixed, получим 0.33 в строковом виде "0.33", 2 передаваемая в toFixed называется аргумент
  **/
 
-console.log((1/3).toFixed(2))
+console.log((1/3).toFixed(2));
 
