@@ -22,7 +22,8 @@
  * Циклы.
  */
 
-//import "./import_jsFIle/import_export/7.js"            // Реэкспорт.
+//import "./import_jsFIle/cycle/1.js"            // while.
+import "./import_jsFIle/cycle/2.js"            // while.
 
 
 
