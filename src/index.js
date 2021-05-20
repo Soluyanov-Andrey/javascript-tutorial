@@ -27,7 +27,13 @@
 //import "./import_jsFIle/cycle/3.js"              //Цикл while.
 //import "./import_jsFIle/cycle/4.js"              //Цикл for примеры.
 //import "./import_jsFIle/cycle/5.js"              //While, пример бесконечного цикла.
-import "./import_jsFIle/cycle/6.js"              //Инструкция continue.Использование в цикле for.
+//import "./import_jsFIle/cycle/6.js"              //Инструкция continue.Использование в цикле for.
+
+/**
+ * Функции
+ */
+
+import "./import_jsFIle/function/1.js"              //Function Declaration, Function Expression.
 
 
 
