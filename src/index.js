@@ -34,7 +34,7 @@
 //import "./import_jsFIle/cycle/4.js"              //Цикл for примеры.
 //import "./import_jsFIle/cycle/5.js"              //While, пример бесконечного цикла.
 //import "./import_jsFIle/cycle/6.js"              //Инструкция continue.Использование в цикле for.
-
+import "./import_jsFIle/cycle/7.js"              //
 /**
  * Функции
  */
@@ -49,8 +49,9 @@
 /**
  * Задачи
  */
-
-import "./import_jsFIle/task/2.js"              //
+//import "./import_jsFIle/task/1.js"              //
+//import "./import_jsFIle/task/2.js"              //
+//import "./import_jsFIle/task/3.js"              //
 
 
 
