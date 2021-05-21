@@ -7,7 +7,8 @@
 //import "./import_jsFIle/values_types_operators/2.js"      // Строки.
 //import "./import_jsFIle/values_types_operators/3.js"      // Переменные, константы.
 //import "./import_jsFIle/values_types_operators/4.js"      // Как выглядят комментарии в JS. "use strict".
-import "./import_jsFIle/values_types_operators/5.js"      //
+//import "./import_jsFIle/values_types_operators/5.js"      //Операторы сравнения.
+import "./import_jsFIle/values_types_operators/6.js"      //Логические операторы.
 /**
  * import, export.
  */
