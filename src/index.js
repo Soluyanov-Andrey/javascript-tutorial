@@ -11,7 +11,7 @@
 //import "./import_jsFIle/values_types_operators/6.js"      //Логические операторы.
 //import "./import_jsFIle/values_types_operators/7.js"      //Typeof, преобразования строк.
 //import "./import_jsFIle/values_types_operators/8.js"      //NaN, undefined.
-import "./import_jsFIle/values_types_operators/9.js"      //Post increment, Pre increment.
+//import "./import_jsFIle/values_types_operators/9.js"      //Post increment, Pre increment.
 /**
  * import, export.
  */
@@ -46,7 +46,11 @@ import "./import_jsFIle/values_types_operators/9.js"      //Post increment, Pre 
 //import "./import_jsFIle/function/5.js"              //
 //import "./import_jsFIle/function/6.js"              //
 
+/**
+ * Задачи
+ */
 
+import "./import_jsFIle/task/2.js"              //
 
 
 
