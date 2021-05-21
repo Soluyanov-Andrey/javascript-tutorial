@@ -10,7 +10,8 @@
 //import "./import_jsFIle/values_types_operators/5.js"      //Операторы сравнения.
 //import "./import_jsFIle/values_types_operators/6.js"      //Логические операторы.
 //import "./import_jsFIle/values_types_operators/7.js"      //Typeof, преобразования строк.
-import "./import_jsFIle/values_types_operators/8.js"      //Примеры.
+//import "./import_jsFIle/values_types_operators/8.js"      //NaN, undefined.
+import "./import_jsFIle/values_types_operators/9.js"      //Post increment, Pre increment.
 /**
  * import, export.
  */
