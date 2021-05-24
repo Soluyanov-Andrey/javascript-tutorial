@@ -54,6 +54,7 @@
 //import "./import_jsFIle/task/2.js"              //
 //import "./import_jsFIle/task/3.js"              //
 //import "./import_jsFIle/task/4.js"              //
+//import "./import_jsFIle/task/5.js"              //
 /**
  * Объекты
  */
