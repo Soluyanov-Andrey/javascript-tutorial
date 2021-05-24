@@ -51,8 +51,12 @@
  */
 //import "./import_jsFIle/task/1.js"              //
 //import "./import_jsFIle/task/2.js"              //
-import "./import_jsFIle/task/3.js"              //
+//import "./import_jsFIle/task/3.js"              //
 
+/**
+ * draft черновик
+ */
+import "./import_jsFIle/draft/1.js"              //
 
 
 

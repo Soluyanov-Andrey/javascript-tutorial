@@ -9,7 +9,7 @@ function sum_f(a, b) {
 // Function Expression
 
 
-let sum_f1= function(a, b) {
+let sum_f1 = function(a, b) {
     return a + b;
 };
 
