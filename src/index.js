@@ -1,5 +1,6 @@
 'use strict';
 
+
 /**
  * Значения типы и операторы
  */
@@ -56,7 +57,7 @@
 /**
  * draft черновик
  */
-import "./import_jsFIle/draft/1.js"              //
+ import "./import_jsFIle/draft/1.js"              //
 
 
 
