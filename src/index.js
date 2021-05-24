@@ -53,11 +53,17 @@
 //import "./import_jsFIle/task/1.js"              //
 //import "./import_jsFIle/task/2.js"              //
 //import "./import_jsFIle/task/3.js"              //
+//import "./import_jsFIle/task/4.js"              //
+/**
+ * Объекты
+ */
+import "./import_jsFIle/object/1.js"              //
 
 /**
  * draft черновик
  */
- import "./import_jsFIle/draft/1.js"              //
+ //import "./import_jsFIle/draft/1.js"              //
+
 
 
 

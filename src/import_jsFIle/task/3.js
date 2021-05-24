@@ -7,6 +7,6 @@ let a = 1;
 let b = 75;
 let sum = 0;
 for (let i = a; i <= b; i++){
-    if(i % 2 !=0) { sum = sum + i}
+    if(i % 2 !=0) { sum += i}
 }
 console.log("Сумма нечётных чисел равна ",sum)
