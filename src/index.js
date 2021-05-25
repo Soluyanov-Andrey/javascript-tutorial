@@ -1,6 +1,5 @@
 'use strict';
 
-
 /**
  * Значения типы и операторы
  */
@@ -46,7 +45,7 @@
 //import "./import_jsFIle/function/4.js"              //
 //import "./import_jsFIle/function/5.js"              //
 //import "./import_jsFIle/function/6.js"              //
-
+import "./import_jsFIle/function/7.js"              //
 /**
  * Задачи
  */
@@ -63,7 +62,7 @@
 /**
  * draft черновик
  */
- import "./import_jsFIle/draft/1.js"              //
+//import "./import_jsFIle/draft/1.js"              //
 
 
 
