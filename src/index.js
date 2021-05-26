@@ -58,11 +58,12 @@
  * Объекты
  */
 //import "./import_jsFIle/object/1.js"              //
+import "./import_jsFIle/object/2.js"              // Прототипы
 /**
  * rest параметры
  */
 //import "./import_jsFIle/rest_spread_desrtuct/1.js"              // Rest параметры.
-import "./import_jsFIle/rest_spread_desrtuct/2.js"
+//import "./import_jsFIle/rest_spread_desrtuct/2.js"
 /**
  * draft черновик
  */
