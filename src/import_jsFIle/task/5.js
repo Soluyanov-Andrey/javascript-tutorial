@@ -9,3 +9,4 @@ document.body.append(div);
 
 let elem = document.getElementById('alert');
 console.log(elem.childNodes);
+

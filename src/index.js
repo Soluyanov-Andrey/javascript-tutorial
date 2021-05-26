@@ -45,7 +45,7 @@
 //import "./import_jsFIle/function/4.js"              //
 //import "./import_jsFIle/function/5.js"              //
 //import "./import_jsFIle/function/6.js"              //
-import "./import_jsFIle/function/7.js"              //
+//import "./import_jsFIle/function/7.js"              //
 /**
  * Задачи
  */
@@ -58,6 +58,10 @@ import "./import_jsFIle/function/7.js"              //
  * Объекты
  */
 //import "./import_jsFIle/object/1.js"              //
+/**
+ * rest параметры
+ */
+import "./import_jsFIle/rest_spread/1.js"              //
 
 /**
  * draft черновик
