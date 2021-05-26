@@ -38,6 +38,28 @@
 // console.log(b);
 
 /**
+ * Копирование объекта и ссылка на объект.
+ */
+
+// const car = {
+//     name_car: 'bmw',
+//     color: 'red',
+//     num: '3274'
+// }
+//
+// let b = car;               // Делает ссылку на объект.
+// let value01 = {...car};    // Делает копию объекта.
+//
+// console.log(b);            //{name_car: "bmw", color: "red", num: "3274"}
+// console.log(value01);      //{name_car: "bmw", color: "red", num: "3274"}
+// console.log("------------------");
+// car.name_car = "jhhh";     // Изменяем основной объект.
+//
+// console.log(b);            //{name_car: "jhhh", color: "red", num: "3274"}
+// console.log(value01);      //{name_car: "bmw", color: "red", num: "3274"}
+
+
+/**
  * Оператор instanceof позволяет проверить, к какому классу принадлежит объект, с учётом наследования.
  */
 
