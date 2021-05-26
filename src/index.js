@@ -7,11 +7,11 @@
 //import "./import_jsFIle/values_types_operators/2.js"      // Строки.
 //import "./import_jsFIle/values_types_operators/3.js"      // Переменные, константы.
 //import "./import_jsFIle/values_types_operators/4.js"      // Как выглядят комментарии в JS. "use strict".
-//import "./import_jsFIle/values_types_operators/5.js"      //Операторы сравнения.
-//import "./import_jsFIle/values_types_operators/6.js"      //Логические операторы.
-//import "./import_jsFIle/values_types_operators/7.js"      //Typeof, преобразования строк.
-//import "./import_jsFIle/values_types_operators/8.js"      //NaN, undefined.
-//import "./import_jsFIle/values_types_operators/9.js"      //Post increment, Pre increment.
+//import "./import_jsFIle/values_types_operators/5.js"      // Операторы сравнения.
+//import "./import_jsFIle/values_types_operators/6.js"      // Логические операторы.
+//import "./import_jsFIle/values_types_operators/7.js"      // Typeof, преобразования строк.
+//import "./import_jsFIle/values_types_operators/8.js"      // NaN, undefined.
+//import "./import_jsFIle/values_types_operators/9.js"      // Post increment, Pre increment.
 /**
  * import, export.
  */
@@ -28,19 +28,19 @@
  * Циклы.
  */
 
-//import "./import_jsFIle/cycle/1.js"              //Цикл while.
-//import "./import_jsFIle/cycle/2.js"              //Цикл while.
-//import "./import_jsFIle/cycle/3.js"              //Цикл while.
-//import "./import_jsFIle/cycle/4.js"              //Цикл for примеры.
-//import "./import_jsFIle/cycle/5.js"              //While, пример бесконечного цикла.
-//import "./import_jsFIle/cycle/6.js"              //Инструкция continue.Использование в цикле for.
+//import "./import_jsFIle/cycle/1.js"              // Цикл while.
+//import "./import_jsFIle/cycle/2.js"              // Цикл while.
+//import "./import_jsFIle/cycle/3.js"              // Цикл while.
+//import "./import_jsFIle/cycle/4.js"              // Цикл for примеры.
+//import "./import_jsFIle/cycle/5.js"              // While, пример бесконечного цикла.
+//import "./import_jsFIle/cycle/6.js"              // Инструкция continue.Использование в цикле for.
 //import "./import_jsFIle/cycle/7.js"              //
 /**
  * Функции
  */
 
-//import "./import_jsFIle/function/1.js"              //Function Declaration, Function Expression.
-//import "./import_jsFIle/function/2.js"              //Примеры вызова функций.
+//import "./import_jsFIle/function/1.js"              // Function Declaration, Function Expression.
+//import "./import_jsFIle/function/2.js"              // Примеры вызова функций.
 //import "./import_jsFIle/function/3.js"              //
 //import "./import_jsFIle/function/4.js"              //
 //import "./import_jsFIle/function/5.js"              //
@@ -61,7 +61,7 @@
 /**
  * rest параметры
  */
-import "./import_jsFIle/rest_spread/1.js"              //
+import "./import_jsFIle/rest_spread/1.js"              // Rest параметры.
 
 /**
  * draft черновик
