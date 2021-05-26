@@ -90,7 +90,7 @@
 
 
 /**
- * Создаем объект с помощью new 
+ * Создаем объект с помощью new
  */
 
 // Если у нас есть функция конструктор которая создает объект,
@@ -100,7 +100,7 @@ function Car(name,color){
     this.color = color;
 }
 Car.prototype.info= function() {
-    console.log(this.name,'goes',this.color);
+    console.log(this.name,'цвет',this.color);
 }
 const truck = new Car('Камаз', 'Красный');
 const passenger = new Car('Audi', 'Зеленый');

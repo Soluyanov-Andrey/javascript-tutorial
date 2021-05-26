@@ -58,7 +58,8 @@
  * Объекты
  */
 //import "./import_jsFIle/object/1.js"              //
-import "./import_jsFIle/object/2.js"              // Прототипы
+//import "./import_jsFIle/object/2.js"              // Прототипы
+import "./import_jsFIle/object/3.js"
 /**
  * rest параметры
  */
