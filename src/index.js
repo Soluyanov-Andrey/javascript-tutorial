@@ -61,8 +61,8 @@
 /**
  * rest параметры
  */
-import "./import_jsFIle/rest_spread/1.js"              // Rest параметры.
-
+//import "./import_jsFIle/rest_spread/1.js"              // Rest параметры.
+import "./import_jsFIle/rest_spread/2.js"
 /**
  * draft черновик
  */
