@@ -60,6 +60,7 @@
 //import "./import_jsFIle/object/1.js"              //
 //import "./import_jsFIle/object/2.js"              // Прототипы
 //import "./import_jsFIle/object/3.js"
+import "./import_jsFIle/object/4.js"
 /**
  * rest параметры
  */
@@ -68,7 +69,7 @@
 /**
  * draft черновик
  */
-import "./import_jsFIle/draft/1.js"              //
+//import "./import_jsFIle/draft/1.js"              //
 
 
 
