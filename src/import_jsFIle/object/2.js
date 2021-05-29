@@ -42,7 +42,7 @@
 //     color: 'Красный'
 // };
 //
-// Object.setPrototypeOf(truck, car)
+// Object.setPrototypeOf(truck, car) //написанно в MDN что так лучше не использовать
 //
 // const passenger = {
 //     name: 'Audi',
