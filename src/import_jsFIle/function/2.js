@@ -43,6 +43,5 @@ if (per > 25) {
     };
 }
 
-// ...не работает
-fun(); // Error: welcome is not defined
+fun();
 
