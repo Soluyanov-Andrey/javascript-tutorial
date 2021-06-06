@@ -31,10 +31,22 @@
  *                     name: 'Stef',                 ame: 'Stef',
  *                     age:  17                      age:  17
  *                 }                                 }
- * Array           const items =[25,'Jox','false'    const items = new Array(25,'Jox','false');
+ * Array           const items =[25,'Jox','false']   const items = new Array(25,'Jox','false');
  *
  * Function        function s(){                     const sum = new Function('a', 'b', 'return a + b')
  *                 return 2;
  *                 }
  *
+ */
+
+/**
+ * Примитивы передаются по значению a = b;
+ * let a = 5;
+ * let b = a;
+ * в b будет помещена копия
+ *
+ * Объекты передаются по ссылке
+ *  let items = [25,'Jox','false']
+ *  let b = items
+ *  в b будет ссылка.
  */
