@@ -85,7 +85,7 @@ let choose = (mostly_tree,b ) => {
         if (mostly_tree[i].presence_сhild == true) {
             //console.log(mostly_tree[i].сhild[0].adress)
             b[mostly_tree[i].adress]= true;
-            add_node(mostly_tree[i].сhild,b)
+            choose (mostly_tree[i].сhild,b)
 
         }
 
@@ -94,6 +94,6 @@ let choose = (mostly_tree,b ) => {
 
     return b;
 }
-
+// let c = choose(state.knot,{"0-5": true})// Так функция найдет у кого presence_сhild == true, и добавит "0-5": true
 let c = choose(state.knot)
 console.log(c)
