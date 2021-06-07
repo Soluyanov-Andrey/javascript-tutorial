@@ -54,13 +54,14 @@
 //import "./import_jsFIle/task/3.js"              //
 //import "./import_jsFIle/task/4.js"              //
 //import "./import_jsFIle/task/5.js"              //
+import "./import_jsFIle/task/6.js"              //
 /**
  * Объекты
  */
 //import "./import_jsFIle/object/1.js"              //
 //import "./import_jsFIle/object/2.js"              // Прототипы
 //import "./import_jsFIle/object/3.js"
-import "./import_jsFIle/object/4.js"
+// import "./import_jsFIle/object/4.js"
 /**
  * rest параметры
  */
