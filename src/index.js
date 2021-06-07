@@ -55,7 +55,8 @@
 //import "./import_jsFIle/task/4.js"              //
 //import "./import_jsFIle/task/5.js"              //
 // import "./import_jsFIle/task/6.js"              //Решение задачи с деревьями 1.
- import "./import_jsFIle/task/7.js"              //Решение задачи с деревьями 2.
+// import "./import_jsFIle/task/7.js"              //Решение задачи с деревьями 2.
+import "./import_jsFIle/task/8.js"              //
 /**
  * Объекты
  */
