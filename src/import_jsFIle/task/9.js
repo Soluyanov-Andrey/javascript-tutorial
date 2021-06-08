@@ -75,9 +75,9 @@ let state = {
 
 let a =[];
 
-let choose = (mostly_tree,b ) => {
+let choose = (mostly_tree,b = { }) => {
 
-    if(b == undefined){  var b = { } }
+    // if(b == undefined){  var b = { } }
 
     // //перебираем массив рекурсивно
     for (let i = 0; i < mostly_tree.length; i++){

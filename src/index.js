@@ -68,8 +68,9 @@ import "./import_jsFIle/task/9.js"              //
 /**
  * rest параметры
  */
-//import "./import_jsFIle/rest_spread_desrtuct/1.js"              // Rest параметры.
-//import "./import_jsFIle/rest_spread_desrtuct/2.js"
+//import "./import_jsFIle/rest_spread_disrtuct/1.js"              // Rest параметры.
+//import "./import_jsFIle/rest_spread_disrtuct/2.js"
+import "./import_jsFIle/rest_spread_disrtuct/3.js"
 /**
  * draft черновик
  */
