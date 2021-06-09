@@ -1,3 +1,6 @@
+/**
+ * Как зделать так чтоб при обнавлении браузера менялась картинка 1 потом 2 потом первая
+ */
 let Reloaded  = function(loaded){
     //добавляем до предыдущего значения 1
     sessionStorage.setItem('load', Number(sessionStorage.getItem('load'))+1);
