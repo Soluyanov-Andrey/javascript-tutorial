@@ -56,8 +56,8 @@
 //import "./import_jsFIle/task/5.js"              //
 // import "./import_jsFIle/task/6.js"              //Решение задачи с деревьями 1.
 // import "./import_jsFIle/task/7.js"              //Решение задачи с деревьями 2.
-//import "./import_jsFIle/task/8.js"              //
-import "./import_jsFIle/task/9.js"              //
+//import "./import_jsFIle/task/8.js"               //Как зделать так чтоб при обнавлении браузера менялась картинка
+import "./import_jsFIle/task/9.js"              //Выбор адресов из объекта
 /**
  * Объекты
  */
