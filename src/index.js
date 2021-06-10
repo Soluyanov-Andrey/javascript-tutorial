@@ -46,7 +46,8 @@
 //import "./import_jsFIle/function/5.js"              //
 //import "./import_jsFIle/function/6.js"              //
 //import "./import_jsFIle/function/7.js"              //
-import "./import_jsFIle/function/8.js"              //Чейнинг
+// import "./import_jsFIle/function/8.js"              //Чейнинг
+import "./import_jsFIle/function/9.js"              //Чейнинг
 /**
  * Задачи
  */
