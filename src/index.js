@@ -46,6 +46,7 @@
 //import "./import_jsFIle/function/5.js"              //
 //import "./import_jsFIle/function/6.js"              //
 //import "./import_jsFIle/function/7.js"              //
+import "./import_jsFIle/function/8.js"              //Чейнинг
 /**
  * Задачи
  */
@@ -57,7 +58,7 @@
 // import "./import_jsFIle/task/6.js"              //Решение задачи с деревьями 1.
 // import "./import_jsFIle/task/7.js"              //Решение задачи с деревьями 2.
 //import "./import_jsFIle/task/8.js"               //Как зделать так чтоб при обнавлении браузера менялась картинка
-import "./import_jsFIle/task/9.js"              //Выбор адресов из объекта
+//import "./import_jsFIle/task/9.js"              //Выбор адресов из объекта
 /**
  * Объекты
  */
@@ -70,7 +71,7 @@ import "./import_jsFIle/task/9.js"              //Выбор адресов из
  */
 //import "./import_jsFIle/rest_spread_disrtuct/1.js"              // Rest параметры.
 //import "./import_jsFIle/rest_spread_disrtuct/2.js"
-import "./import_jsFIle/rest_spread_disrtuct/3.js"
+// import "./import_jsFIle/rest_spread_disrtuct/3.js"
 /**
  * draft черновик
  */
