@@ -46,11 +46,12 @@
 //import "./import_jsFIle/function/5.js"              //
 //import "./import_jsFIle/function/6.js"              //
 //import "./import_jsFIle/function/7.js"              //
-// import "./import_jsFIle/function/8.js"              //Чейнинг
+// import "./import_jsFIle/function/8.js"             //Чейнинг
 //import "./import_jsFIle/function/9.js"              //Чейнинг
-// import "./import_jsFIle/function/10.js"              //Чейнинг
-// import "./import_jsFIle/function/11.js"              //Рекурсия
-import "./import_jsFIle/function/12.js"              //Каррирование
+// import "./import_jsFIle/function/10.js"            //Чейнинг
+// import "./import_jsFIle/function/11.js"            //Рекурсия
+//import "./import_jsFIle/function/12.js"             //Каррирование
+import "./import_jsFIle/function/13.js"               //Композиция
 /**
  * Задачи
  */
