@@ -5,6 +5,6 @@
  */
 // const sum = (a,b)=>a+b;
 const sum = a => b => a + b;
-const a =sum(5);
-const b =a(10);
+const a = sum(5);
+const b = a(10);
 console.log(b);
