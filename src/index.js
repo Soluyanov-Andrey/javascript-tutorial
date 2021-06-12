@@ -49,7 +49,8 @@
 // import "./import_jsFIle/function/8.js"              //Чейнинг
 //import "./import_jsFIle/function/9.js"              //Чейнинг
 // import "./import_jsFIle/function/10.js"              //Чейнинг
-import "./import_jsFIle/function/11.js"              //Рекурсия
+// import "./import_jsFIle/function/11.js"              //Рекурсия
+import "./import_jsFIle/function/12.js"              //Каррирование
 /**
  * Задачи
  */
