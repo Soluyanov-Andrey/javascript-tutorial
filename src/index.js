@@ -51,7 +51,8 @@
 //import "./import_jsFIle/function/chaining/3.js"            //Чейнинг
 // import "./import_jsFIle/function/recurse/1.js"            //Рекурсия
 //import "./import_jsFIle/function/currying/1.js"             //Каррирование
-import "./import_jsFIle/function/composition/1.js"               //Композиция
+import "./import_jsFIle/function/currying/2.js"             //Каррирование
+//import "./import_jsFIle/function/composition/1.js"               //Композиция
 
 /**
  * Задачи
