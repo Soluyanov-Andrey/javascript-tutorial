@@ -78,7 +78,7 @@ import "./import_jsFIle/function/currying/3.js"             //Каррирова
  * rest параметры
  */
 //import "./import_jsFIle/rest_spread_disrtuct/1.js"              // Rest параметры.
-//import "./import_jsFIle/rest_spread_disrtuct/2.js"
+//import "./import_jsFIle/rest_spread_disrtuct/2.js"              // Spread operator
 // import "./import_jsFIle/rest_spread_disrtuct/3.js"
 /**
  * draft черновик
