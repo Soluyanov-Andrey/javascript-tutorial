@@ -1,9 +1,9 @@
 /**
  * Каррирование
  */
-const min = (base, n) => Math.cos(n) - Math.sin(base);
+const minus = (base, n) => Math.cos(n) - Math.sin(base);
 
-const createMin = base => n => min(base, n);
+const createMin = base => n => minus(base, n);
 
 {
     const fn1 = createMin(50);
