@@ -54,7 +54,7 @@
 //import "./import_jsFIle/function/currying/2.js"             //Каррирование
 import "./import_jsFIle/function/currying/3.js"             //Каррирование
 //import "./import_jsFIle/function/composition/1.js"               //Композиция
-
+//import "./import_jsFIle/function/composition/2.js"               //Композиция
 /**
  * Задачи
  */
