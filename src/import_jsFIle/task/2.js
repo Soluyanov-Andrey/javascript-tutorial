@@ -4,12 +4,12 @@
 
 let a = 2;
 let z = 5;
-let stepen = a;
+let stage = a;
 
 while(z>1)
 {
     z--;
     //stepen = stepen * a;
-    stepen *= a;
-    console.log(stepen);
+    stage *= a;
+    console.log(stage);
 }
