@@ -83,12 +83,14 @@
 /**
  * Массивы.
  */
-//import "./import_jsFIle/array/1.js"
-//import "./import_jsFIle/array/2.js"
-//import "./import_jsFIle/array/3.js" //Метод pop() удаляет последний элемент из массива и возвращает его значение.
+//import "./import_jsFIle/array/1.js" //forEach()
+
+//import "./import_jsFIle/array/2.js" //push()
+//import "./import_jsFIle/array/3.js" //Метод pop()
 //import "./import_jsFIle/array/4.js" //Метод unshift()
 //import "./import_jsFIle/array/5.js" //Метод unshift()
-//import "./import_jsFIle/array/6.js" //Метод slice
+//import "./import_jsFIle/array/6.js" //Метод slice()
+//import "./import_jsFIle/array/7.js" //Метод splice()
 /**
  * draft черновик
  */
