@@ -86,7 +86,8 @@
 //import "./import_jsFIle/array/1.js"
 //import "./import_jsFIle/array/2.js"
 //import "./import_jsFIle/array/3.js" //Метод pop() удаляет последний элемент из массива и возвращает его значение.
-import "./import_jsFIle/array/4.js" //Метод unshift()
+//import "./import_jsFIle/array/4.js" //Метод unshift()
+import "./import_jsFIle/array/5.js" //Метод unshift()
 /**
  * draft черновик
  */
