@@ -52,7 +52,7 @@
 // import "./import_jsFIle/function/recurse/1.js"            //Рекурсия
 //import "./import_jsFIle/function/currying/1.js"             //Каррирование
 //import "./import_jsFIle/function/currying/2.js"             //Каррирование
-import "./import_jsFIle/function/currying/3.js"             //Каррирование
+//import "./import_jsFIle/function/currying/3.js"             //Каррирование
 //import "./import_jsFIle/function/composition/1.js"               //Композиция
 //import "./import_jsFIle/function/composition/2.js"               //Композиция
 /**
@@ -80,6 +80,11 @@ import "./import_jsFIle/function/currying/3.js"             //Каррирова
 //import "./import_jsFIle/rest_spread_disrtuct/1.js"              // Rest параметры.
 //import "./import_jsFIle/rest_spread_disrtuct/2.js"              // Spread operator
 // import "./import_jsFIle/rest_spread_disrtuct/3.js"
+/**
+ * Массивы.
+ */
+import "./import_jsFIle/array/1.js"
+
 /**
  * draft черновик
  */
