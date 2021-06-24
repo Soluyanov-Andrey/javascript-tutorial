@@ -83,15 +83,15 @@
 /**
  * Массивы.
  */
-//import "./import_jsFIle/array/1.js" //forEach()
+//import "./import_jsFIle/brute_force/1.js" //forEach()
 
-//import "./import_jsFIle/array/2.js" //push()
-//import "./import_jsFIle/array/3.js" //Метод pop()
-//import "./import_jsFIle/array/4.js" //Метод unshift()
-//import "./import_jsFIle/array/5.js" //Метод unshift()
-//import "./import_jsFIle/array/6.js" //Метод slice()
-//import "./import_jsFIle/array/7.js" //Метод splice()
-//import "./import_jsFIle/array/8.js" //Метод concat()
+//import "./import_jsFIle/add_delete/1.js" //push()
+//import "./import_jsFIle/add_delete/2.js" //Метод pop()
+//import "./import_jsFIle/add_delete/3.js" //Метод unshift()
+//import "./import_jsFIle/add_delete/4.js" //Метод unshift()
+//import "./import_jsFIle/add_delete/5.js" //Метод slice()
+//import "./import_jsFIle/add_delete/6.js" //Метод splice()
+//import "./import_jsFIle/add_delete/7.js" //Метод concat()
 
 /**
  * draft черновик
