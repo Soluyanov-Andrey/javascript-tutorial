@@ -91,6 +91,8 @@
 //import "./import_jsFIle/array/5.js" //Метод unshift()
 //import "./import_jsFIle/array/6.js" //Метод slice()
 //import "./import_jsFIle/array/7.js" //Метод splice()
+//import "./import_jsFIle/array/8.js" //Метод concat()
+
 /**
  * draft черновик
  */
